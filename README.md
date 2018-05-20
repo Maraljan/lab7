@@ -1,2 +1,2 @@
 # lab7
-![](lab7.png)
+![](7lab.png)
